@@ -1,4 +1,4 @@
-# SVM Optimization
+# SVM Parameter Optimization
 
 
 | Sample | Best Accuracy | Best Kernel | Best Nu | Best Epsilon |
